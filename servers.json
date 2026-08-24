@@ -1,0 +1,8 @@
+[
+  { "slug": "demo",      "url": "https://demo.erptrue.com",      "label": "ERPTrue Demo" },
+  { "slug": "hms-demo",  "url": "https://hms-demo.erptrue.com",  "label": "ERPTrue HMS Demo" },
+  { "slug": "eitmad",    "url": "https://eitmad.erptrue.com",    "label": "Eitmad" },
+  { "slug": "demo-ksa",  "url": "https://demo-ksa.erptrue.com",  "label": "ERPTrue Demo (KSA)" },
+  { "slug": "demo-oman", "url": "https://demo-oman.erptrue.com", "label": "ERPTrue Demo (Oman)" },
+  { "slug": "resto",     "url": "https://resto.erptrue.com",     "label": "ERPTrue Restaurant" }
+]
